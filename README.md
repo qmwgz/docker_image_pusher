@@ -23,6 +23,8 @@ https://cr.console.aliyun.com/<br>
 用户名（**ALIYUN_REGISTRY_USER**)<br>
 密码（**ALIYUN_REGISTRY_PASSWORD**)<br>
 仓库地址（**ALIYUN_REGISTRY**）<br>
+命名空间（**ALIYUN_NAME_SPACE**）<br>
+以上环境变量不能写错
 
 ![](/doc/用户名密码.png)
 
