@@ -1,1 +1,2 @@
 postgres:latest
+exadel/compreface-admin:latest
