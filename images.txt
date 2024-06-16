@@ -1,4 +1,3 @@
-zhangqinghua/fastgpt:master.20240615212054
-one-api:latest
+justsong/one-api:latest
 
 
