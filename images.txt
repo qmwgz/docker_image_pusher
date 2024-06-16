@@ -1,14 +1,3 @@
-postgres:latest
-exadel/compreface-admin:latest
-exadel/compreface-api:latest
-exadel/compreface-fe:latest
-exadel/compreface-core:latest
-exadel/compreface-postgres-db:latest
-wojiushixiaobai/dataease:v2.7.1
-1panel/maxkb:latest
-pgvector/pgvector:0.7.0-pg15
-mongo:5.0.18
-c121914yu/fastgpt-sandbox:v4.8.4
 zhangqinghua/fastgpt
 one-api:latest
 
