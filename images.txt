@@ -3,3 +3,6 @@ exadel/compreface-admin:latest
 exadel/compreface-api:latest
 exadel/compreface-fe:latest
 exadel/compreface-core:latest
+wojiushixiaobai/dataease:v2.7.1
+1panel/maxkb:latest
+
