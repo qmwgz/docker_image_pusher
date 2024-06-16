@@ -1,2 +1,5 @@
 postgres:latest
 exadel/compreface-admin:latest
+exadel/compreface-api:latest
+exadel/compreface-fe:latest
+exadel/compreface-core:latest
