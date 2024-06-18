@@ -1,3 +1,4 @@
-zhuxh529/fastgpt:latest
+mysql:8.0.36
+ghcr.io/labring/fastgpt:v4.8.4
 
 
