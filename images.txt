@@ -1,4 +1,3 @@
-dockurr/windows:latest
-budtmo/docker-android:emulator_12.0
+mailserver/docker-mailserver:14.0.0
 
 
