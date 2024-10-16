@@ -1,3 +1,3 @@
-jellyfin/jellyfin
+ollama/ollama
 
 
