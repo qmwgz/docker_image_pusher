@@ -1,4 +1,4 @@
-nvidia/cuda
+1panel/maxkb
 
 
 
