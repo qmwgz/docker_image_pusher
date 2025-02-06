@@ -1,4 +1,4 @@
-1panel/maxkb
+julianfl0w/janus:latest
 
 
 
