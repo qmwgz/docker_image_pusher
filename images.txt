@@ -1,4 +1,4 @@
-julianfl0w/janus:latest
+pytorch/pytorch:latest
 
 
 
