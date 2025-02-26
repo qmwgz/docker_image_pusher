@@ -1,4 +1,5 @@
-pytorch/pytorch:latest
+ghcr.io/pyspur-dev/pyspur-backend:latest
+
 
 
 
