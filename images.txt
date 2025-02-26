@@ -1,4 +1,4 @@
-ghcr.io/pyspur-dev/pyspur-backend:latest
+postgres:17-alpine
 
 
 
