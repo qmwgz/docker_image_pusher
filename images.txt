@@ -1,4 +1,4 @@
-postgres:17-alpine
+dyrnq/open-webui
 
 
 
