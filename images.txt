@@ -1,4 +1,4 @@
-dyrnq/open-webui  
+dyrnq/open-webui
 
 
 
