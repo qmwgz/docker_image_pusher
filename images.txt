@@ -1,5 +1,5 @@
 dyrnq/open-webui
-ollama/ollama
+ollama/ollama 
 
 
 
