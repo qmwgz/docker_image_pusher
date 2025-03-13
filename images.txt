@@ -1,6 +1,6 @@
-dyrnq/open-webui
-ollama/ollama 
-kaltura/server
+dyrnq/open-webui:latest
+ollama/ollama:latest
+kaltura/server:latest
 vllm/vllm-openai:latest
 
 
