@@ -1,5 +1,7 @@
 dyrnq/open-webui
 ollama/ollama 
+kaltura/server
+vllm/vllm-openai:latest
 
 
 
