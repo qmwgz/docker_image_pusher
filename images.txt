@@ -1,7 +1,8 @@
-dyrnq/open-webui:latest
-ollama/ollama:latest
-kaltura/server:latest
-vllm/vllm-openai:latest
+#dyrnq/open-webui:latest
+#ollama/ollama:latest
+#kaltura/server:latest
+#vllm/vllm-openai:latest
+ghcr.io/open-webui/pipelines:main
 
 
 
