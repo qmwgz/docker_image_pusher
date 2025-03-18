@@ -4,7 +4,9 @@
 #vllm/vllm-openai:latest
 #ghcr.io/open-webui/pipelines:main
 #pranavreddy123/fastapi_backend
-python:3.12.1-slim-bookworm
+#python:3.12.1-slim-bookworm
+mysql:latest
+
 
 
 
