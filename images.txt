@@ -3,7 +3,8 @@
 #kaltura/server:latest
 #vllm/vllm-openai:latest
 #ghcr.io/open-webui/pipelines:main
-pranavreddy123/fastapi_backend
+#pranavreddy123/fastapi_backend
+python:3.12.1-slim-bookworm
 
 
 
