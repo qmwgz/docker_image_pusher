@@ -6,7 +6,8 @@
 #pranavreddy123/fastapi_backend
 #python:3.12.1-slim-bookworm
 #mysql:latest
-whyour/qinglong:latest
+#whyour/qinglong:latest
+apache/airflow
 
 
 
