@@ -8,8 +8,9 @@
 #mysql:latest
 #whyour/qinglong:latest
 #apache/airflow
-redis:7.2-bookworm
-postgres:13
+#redis:7.2-bookworm
+#postgres:13
+eosphorosai/dbgpt:latest
 
 
 
