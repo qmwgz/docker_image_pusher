@@ -11,7 +11,8 @@
 #redis:7.2-bookworm
 #postgres:13
 #eosphorosai/dbgpt:latest
-docker.n8n.io/n8nio/n8n
+#docker.n8n.io/n8nio/n8n
+linzeyi/hivision_idphotos
 
 
 
