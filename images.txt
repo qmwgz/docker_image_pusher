@@ -13,7 +13,8 @@
 #eosphorosai/dbgpt:latest
 #docker.n8n.io/n8nio/n8n
 #linzeyi/hivision_idphotos
-mereith/van-nav:latest
+#mereith/van-nav:latest
+python:3.10-slim
 
 
 
