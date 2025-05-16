@@ -15,7 +15,8 @@
 #linzeyi/hivision_idphotos
 #mereith/van-nav:latest
 #python:3.10-slim
-kartoza/geoserver:latest
+#kartoza/geoserver:latest
+dannicool/docker-wechatbot-webhook
 
 
 
