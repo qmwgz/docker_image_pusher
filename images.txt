@@ -1,7 +1,7 @@
 #dyrnq/open-webui:latest
-#ollama/ollama:latest
+ollama/ollama:latest
 #kaltura/server:latest
-#vllm/vllm-openai:latest
+vllm/vllm-openai:latest
 #ghcr.io/open-webui/pipelines:main
 #pranavreddy123/fastapi_backend
 #python:3.12.1-slim-bookworm
@@ -17,7 +17,9 @@
 #python:3.10-slim
 #kartoza/geoserver:latest
 #dannicool/docker-wechatbot-webhook
-1panel/openresty:1.21.4.3-3-3-focal
+#1panel/openresty:1.21.4.3-3-3-focal
+ghcr.io/open-webui/open-webui:cuda
+
 
 
 
